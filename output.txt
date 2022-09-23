@@ -1,0 +1,126 @@
+credit : Davis Instruments Corp.
+credit_URL : http://www.davisnet.com
+disclaimer_url : http://www.davisnet.com/about/terms.asp
+copyright_url : http://www.davisnet.com/about/terms.asp
+privacy_policy_url : http://www.davisnet.com/about/privacy.asp
+image_image_url : http://www.weatherlink.com/images/Logo_Davis_reflxblu.jpg
+image_image_title : Davis WeatherLink
+image_image_link : http://www.weatherlink.com
+suggested_pickup : 15 minutes after the hour
+suggested_pickup_period : 60
+dewpoint_c : -2.6
+dewpoint_f : 27.2
+dewpoint_string : 27.2 F (-2.6 C)
+heat_index_c : -1.7
+heat_index_f : 28.9
+heat_index_string : 28.9 F (-1.7 C)
+location : Corralpata, Gobierno Regional de Lima, Peru
+latitude : -10.7993
+longitude : -76.70661
+observation_time : Last Updated on Aug 10 2022, 7:00 am -05
+observation_time_rfc822 : Wed, 10 Aug 2022 07:00:00 -0500
+pressure_in : 16.880
+pressure_mb : 571.6
+pressure_string : 571.6 mb
+relative_humidity : 93
+station_id : UIscaycruz
+temp_c : -1.7
+temp_f : 29.0
+temperature_string : 29.0 F (-1.7 C)
+wind_degrees : 72
+wind_dir : East-northeast
+wind_kt : 0.0
+wind_mph : 0.0
+windchill_c : -1.7
+windchill_f : 29.0
+windchill_string : 29.0 F (-1.7 C)
+davis_current_observation_DID : 001D0AF1A1A5
+davis_current_observation_station_name : SANTA ESTE
+davis_current_observation_observation_age : -17
+davis_current_observation_dewpoint_dewpoint_day_high_f : 29
+davis_current_observation_dewpoint_dewpoint_day_high_time : 12:00am
+davis_current_observation_dewpoint_dewpoint_day_low_f : 27
+davis_current_observation_dewpoint_dewpoint_day_low_time : 5:33am
+davis_current_observation_dewpoint_dewpoint_month_high_f : 32
+davis_current_observation_dewpoint_dewpoint_month_low_f : 13
+davis_current_observation_dewpoint_dewpoint_year_high_f : 41
+davis_current_observation_dewpoint_dewpoint_year_low_f : -58
+davis_current_observation_et_day : 0.000
+davis_current_observation_et_month : 0.670
+davis_current_observation_et_year : 13.370
+davis_current_observation_heat_index_day_high_f : 31
+davis_current_observation_heat_index_day_high_time : 12:00am
+davis_current_observation_heat_index_month_high_f : 47
+davis_current_observation_heat_index_year_high_f : 48
+davis_current_observation_pressure_day_high_in : 16.898
+davis_current_observation_pressure_day_high_time : 12:00am
+davis_current_observation_pressure_day_low_in : 16.863
+davis_current_observation_pressure_day_low_time : 4:09am
+davis_current_observation_pressure_month_high_in : 16.908
+davis_current_observation_pressure_month_low_in : 16.794
+davis_current_observation_pressure_tendency_string : Steady
+davis_current_observation_pressure_year_high_in : 16.962
+davis_current_observation_pressure_year_low_in : 16.772
+davis_current_observation_rain_day_in : 0.0000
+davis_current_observation_rain_month_in : 0.0236
+davis_current_observation_rain_rate_day_high_in_per_hr : 0.0000
+davis_current_observation_rain_rate_hour_high_in_per_hr : 0.0000
+davis_current_observation_rain_rate_in_per_hr : 0.0000
+davis_current_observation_rain_rate_month_high_in_per_hr : 0.0709
+davis_current_observation_rain_rate_year_high_in_per_hr : 64.7953
+davis_current_observation_rain_storm_in : 0.0000
+davis_current_observation_rain_year_in : 10.3071
+davis_current_observation_relative_humidity_relative_humidity_day_high : 93
+davis_current_observation_relative_humidity_relative_humidity_day_high_time : 5:03am
+davis_current_observation_relative_humidity_relative_humidity_day_relative_humidity_day_low : 87
+davis_current_observation_relative_humidity_relative_humidity_day_relative_humidity_day_low_time : 1:06am
+davis_current_observation_relative_humidity_relative_humidity_month_high : 93
+davis_current_observation_relative_humidity_relative_humidity_month_low : 34
+davis_current_observation_relative_humidity_relative_humidity_year_high : 96
+davis_current_observation_relative_humidity_relative_humidity_year_low : 1
+davis_current_observation_relative_humidity_relative_humidity_in_day_high : 55
+davis_current_observation_relative_humidity_relative_humidity_in_day_high_time : 1:30am
+davis_current_observation_relative_humidity_relative_humidity_in_day_low : 53
+davis_current_observation_relative_humidity_relative_humidity_in_day_low_time : 1:03am
+davis_current_observation_relative_humidity_relative_humidity_in_month_high : 73
+davis_current_observation_relative_humidity_relative_humidity_in_month_low : 46
+davis_current_observation_relative_humidity_relative_humidity_in_year_high : 100
+davis_current_observation_relative_humidity_relative_humidity_in_year_low : 46
+davis_current_observation_solar_radiation : 11
+davis_current_observation_solar_radiation_day_high : 14
+davis_current_observation_solar_radiation_day_high_time : 6:51am
+davis_current_observation_solar_radiation_month_high : 1088
+davis_current_observation_solar_radiation_year_high : 1412
+davis_current_observation_temp_day_high_f : 31.4
+davis_current_observation_temp_day_high_time : 1:32am
+davis_current_observation_temp_day_low_f : 28.7
+davis_current_observation_temp_day_low_time : 6:17am
+davis_current_observation_temp_month_high_f : 31.4
+davis_current_observation_temp_month_low_f : 27.7
+davis_current_observation_temp_year_high_f : 31.4
+davis_current_observation_temp_year_low_f : 26.3
+davis_current_observation_temp_in_day_high_f : 32.4
+davis_current_observation_temp_in_day_high_time : 12:00am
+davis_current_observation_temp_in_day_low_f : 29.1
+davis_current_observation_temp_in_day_low_time : 6:34am
+davis_current_observation_temp_in_f : 29.5
+davis_current_observation_temp_in_month_high_f : 63.6
+davis_current_observation_temp_in_month_low_f : 23.1
+davis_current_observation_temp_in_year_high_f : 69.6
+davis_current_observation_temp_in_year_low_f : 19.4
+davis_current_observation_uv_index : 0.0
+davis_current_observation_uv_index_day_high : 0.0
+davis_current_observation_uv_index_day_high_time : 12:00am
+davis_current_observation_uv_index_month_high : 10.2
+davis_current_observation_uv_index_year_high : 16.0
+davis_current_observation_wind_day_high_mph : 4.0
+davis_current_observation_wind_day_high_time : 12:36am
+davis_current_observation_wind_month_high_mph : 26.0
+davis_current_observation_wind_ten_min_avg_mph : 0.0
+davis_current_observation_wind_ten_min_gust_mph : 2.0
+davis_current_observation_wind_year_high_mph : 40.0
+davis_current_observation_windchill_day_low_f : 27
+davis_current_observation_windchill_day_low_time : 5:46am
+davis_current_observation_windchill_month_low_f : 21
+davis_current_observation_windchill_year_low_f : 14
+time_to_generate : 0.012955 seconds
